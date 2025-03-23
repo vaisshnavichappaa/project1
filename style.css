@@ -1,0 +1,8 @@
+.textContent{
+    font-size:35px;
+}
+
+/* The below styling is to highlight the box selected. */
+.textAreaInput:hover{
+    border: 2px solid skyblue;
+}
